@@ -1,0 +1,17 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/*.iml*
+/.idea
+/.lein-*
+/.nrepl-port
+workspace/
+node_modules/
+/*.log
+CHANGELOG.md
+LICENSE
+main.js
